@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373288849436",
+    "project_id": "furnitureland-47f76",
+    "storage_bucket": "furnitureland-47f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373288849436:android:54d66dd501c4153e308fd9",
+        "android_client_info": {
+          "package_name": "com.example.furnitureland"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbGd6k7rOLH0_BpMOpPZqCqEXTSjDYQFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
